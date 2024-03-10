@@ -88,8 +88,8 @@ if (x.strftime("%x"))==(g.strftime("%x")):
 ninja1=('') #الايدي
 ninja2=('') #التوكن
 #الاصلي👇
-kawa11=('5078054070:AAFGh_Gkz6wRDlMWjD5FskHCcyHdrFw9dgI')
-kawa22=('1742184979')
+kawa11=('')
+kawa22=('')
 #--------------[ TEAM-SUPPORT ]-----------#
 ninja1=('1742184979')
 ninja2=('5078054070:AAFGh_Gkz6wRDlMWjD5FskHCcyHdrFw9dgI')
