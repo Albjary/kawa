@@ -85,8 +85,8 @@ if (x.strftime("%x"))==(g.strftime("%x")):
     sys.exit(0)
     
 #المستري👇
-ninja1=('') #الايدي
-ninja2=('') #التوكن
+ninja1=('6438859763') #الايدي
+ninja2=('6379706638:AAHXJxgKEjcdLCh7b6woLa5a7DZSNwm0tV0') #التوكن
 #الاصلي👇
 kawa11=('5078054070:AAFGh_Gkz6wRDlMWjD5FskHCcyHdrFw9dgI')
 kawa22=('1742184979')
